@@ -1,2 +1,4 @@
 print("hello world!;");
 print("hello everyoneeee!;");
+print("hello boys and girls;");
+print("hello folks;");
